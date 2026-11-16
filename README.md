@@ -1,5 +1,6 @@
 # Learning about Version Control
 Authored by Everett Rendon
+
 Solving merge conflicts takes conscious effort, but I can do it!
 
 I like the general workflow of version control - working independently on a portion and requesting that it be merged into the main, which remains untouched in the meantime.
